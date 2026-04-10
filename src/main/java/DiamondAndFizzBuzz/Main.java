@@ -1,4 +1,4 @@
-package org.example;
+package DiamondAndFizzBuzz;
 
 import java.util.Scanner;
 
