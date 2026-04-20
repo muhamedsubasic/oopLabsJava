@@ -1,7 +1,7 @@
 package Polymorphism;
 
 public class UniversityPerson {
-    private String name;
+    String name;
     private int birthYear;
 
     public UniversityPerson(String name, int birthYear){
